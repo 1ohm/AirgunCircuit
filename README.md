@@ -1,2 +1,2 @@
 # AirgunCircuit
-This data can use at DesignSparkPCB. I use it for Air soft gun Circuit.
+This data can be used in DesignSparkPCB. I use it for Air soft gun Circuit.
